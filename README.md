@@ -1,4 +1,3 @@
-# Titanic-Kaggle-project
 Files
 You will find in this repositor bikeshare_2.py file which include the script for the program.
 
